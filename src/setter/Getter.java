@@ -10,6 +10,7 @@ public class Getter {
 		//g.setName("h");
 		String s=g.getName();
 		System.out.println(s);
+		System.out.println("done");
 	}
 
 }
