@@ -11,6 +11,7 @@ public class Getter {
 		String s=g.getName();
 		System.out.println(s);
 		System.out.println("done");
+		System.out.println("done from git to eclipse import URI");
 	}
 
 }
